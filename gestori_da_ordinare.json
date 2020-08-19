@@ -1,0 +1,1988 @@
+[
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9082,
+				"idUI": "210"
+			},
+			"nome": "ISOLA DEL CANTONE",
+			"nomeBreve": "ISOLA DEL C.",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 210,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9081,
+				"idUI": "209"
+			},
+			"nome": "VIGNOLE",
+			"nomeBreve": "VIGNOLE",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 209,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9080,
+				"idUI": "208"
+			},
+			"nome": "SERRAVALLE SCRIVIA",
+			"nomeBreve": "SERRAVALLE S.",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 208,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9083,
+				"idUI": "211"
+			},
+			"nome": "RONCO SCRIVIA",
+			"nomeBreve": "RONCO SCRIVIA",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 211,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9085,
+				"idUI": "213"
+			},
+			"nome": "GENOVA BOLZANETO",
+			"nomeBreve": "GE BOLZANETO",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 213,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9086,
+				"idUI": "214"
+			},
+			"nome": "GENOVA OVEST",
+			"nomeBreve": "GENOVA OVEST",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 214,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9084,
+				"idUI": "212"
+			},
+			"nome": "BUSALLA",
+			"nomeBreve": "BUSALLA",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 212,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 102,
+				"idUI": "102"
+			},
+			"nome": "GENOVA OVEST",
+			"nomeBreve": "GENOVA OVEST",
+			"tipo": "PB",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "02",
+				"description": "ADDETTO PUNT VENDITA",
+				"codeUI": "V",
+				"puntoVendita": true,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 214
+			}
+		},
+		"aree": {
+			"id": 25,
+			"nome": "3 PUNTO BLU"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "PB"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9087,
+				"idUI": "215"
+			},
+			"nome": "GENOVA AEROPORTO",
+			"nomeBreve": "GENOVA AEROP.",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 215,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9088,
+				"idUI": "216"
+			},
+			"nome": "GENOVA PEGLI",
+			"nomeBreve": "GENOVA PEGLI",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 216,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9089,
+				"idUI": "217"
+			},
+			"nome": "GENOVA PRA'",
+			"nomeBreve": "GENOVA PRA'",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 217,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9090,
+				"idUI": "218"
+			},
+			"nome": "ARENZANO",
+			"nomeBreve": "ARENZANO",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 218,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9091,
+				"idUI": "219"
+			},
+			"nome": "VARAZZE",
+			"nomeBreve": "VARAZZE",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 219,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9092,
+				"idUI": "220"
+			},
+			"nome": "CELLE LIGURE",
+			"nomeBreve": "CELLE LIGURE",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 220,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9093,
+				"idUI": "221"
+			},
+			"nome": "ALBISOLA",
+			"nomeBreve": "ALBISOLA",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 221,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9094,
+				"idUI": "222"
+			},
+			"nome": "SAVONA VADO",
+			"nomeBreve": "SAVONA VADO",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 222,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 103,
+				"idUI": "103"
+			},
+			"nome": "SAVONA",
+			"nomeBreve": "SAVONA",
+			"tipo": "PB",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "02",
+				"description": "ADDETTO PUNT VENDITA",
+				"codeUI": "V",
+				"puntoVendita": true,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 222
+			}
+		},
+		"aree": {
+			"id": 25,
+			"nome": "3 PUNTO BLU"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "PB"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9114,
+				"idUI": "260"
+			},
+			"nome": "GENOVA EST",
+			"nomeBreve": "GENOVA EST",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 260,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9115,
+				"idUI": "261"
+			},
+			"nome": "GENOVA NERVI",
+			"nomeBreve": "GENOVA NERVI",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 261,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9116,
+				"idUI": "262"
+			},
+			"nome": "RECCO",
+			"nomeBreve": "RECCO",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 262,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9117,
+				"idUI": "263"
+			},
+			"nome": "RAPALLO",
+			"nomeBreve": "RAPALLO",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 263,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 104,
+				"idUI": "104"
+			},
+			"nome": "RAPALLO",
+			"nomeBreve": "RAPALLO",
+			"tipo": "PB",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "02",
+				"description": "ADDETTO PUNT VENDITA",
+				"codeUI": "V",
+				"puntoVendita": true,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 263
+			}
+		},
+		"aree": {
+			"id": 25,
+			"nome": "3 PUNTO BLU"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "PB"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9118,
+				"idUI": "264"
+			},
+			"nome": "CHIAVARI",
+			"nomeBreve": "CHIAVARI",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 264,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 121,
+				"idUI": "121"
+			},
+			"nome": "MCT 1 TRATTA",
+			"nomeBreve": "MCT 1 TRATTA",
+			"tipo": "MC",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "23",
+				"description": "OPERATORE MCT       ",
+				"codeUI": "M",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 264
+			}
+		},
+		"aree": {
+			"id": 17,
+			"nome": "2 M C T"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "MC"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9119,
+				"idUI": "265"
+			},
+			"nome": "LAVAGNA",
+			"nomeBreve": "LAVAGNA",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 265,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9120,
+				"idUI": "266"
+			},
+			"nome": "SESTRI LEVANTE",
+			"nomeBreve": "SESTRI LEVANTE",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 266,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9095,
+				"idUI": "230"
+			},
+			"nome": "MASONE",
+			"nomeBreve": "MASONE",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 230,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9096,
+				"idUI": "231"
+			},
+			"nome": "OVADA",
+			"nomeBreve": "OVADA",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 231,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9097,
+				"idUI": "232"
+			},
+			"nome": "NOVI LIGURE",
+			"nomeBreve": "NOVI LIGURE",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 232,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "23",
+				"description": "OPERATORE MCT       ",
+				"codeUI": "M",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9098,
+				"idUI": "233"
+			},
+			"nome": "ALESSANDRIA SUD",
+			"nomeBreve": "ALESSANDRIA SUD",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 233,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "23",
+				"description": "OPERATORE MCT       ",
+				"codeUI": "M",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 107,
+				"idUI": "107"
+			},
+			"nome": "ALESSANDRIA  SUD",
+			"nomeBreve": "ALESSANDRIA SUD",
+			"tipo": "PB",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "02",
+				"description": "ADDETTO PUNT VENDITA",
+				"codeUI": "V",
+				"puntoVendita": true,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 233
+			}
+		},
+		"aree": {
+			"id": 25,
+			"nome": "3 PUNTO BLU"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "PB"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9099,
+				"idUI": "234"
+			},
+			"nome": "CASALE MONFERRATO SUD",
+			"nomeBreve": "CASALE MON.SUD",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 234,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9100,
+				"idUI": "235"
+			},
+			"nome": "CASALE MONFERRATO NORD",
+			"nomeBreve": "CASALE MON.NORD",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 235,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9101,
+				"idUI": "236"
+			},
+			"nome": "VERCELLI OVEST",
+			"nomeBreve": "VERCELLI OVEST",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 236,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "23",
+				"description": "OPERATORE MCT       ",
+				"codeUI": "M",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9104,
+				"idUI": "239"
+			},
+			"nome": "VERCELLI EST",
+			"nomeBreve": "VERCELLI EST",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 239,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "23",
+				"description": "OPERATORE MCT       ",
+				"codeUI": "M",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9105,
+				"idUI": "240"
+			},
+			"nome": "GHEMME - ROMAGNANO SESIA",
+			"nomeBreve": "GHEMME-ROMAG.S.",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 240,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9106,
+				"idUI": "241"
+			},
+			"nome": "BORGOMANERO",
+			"nomeBreve": "BORGOMANERO",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 241,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "23",
+				"description": "OPERATORE MCT       ",
+				"codeUI": "M",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9108,
+				"idUI": "243"
+			},
+			"nome": "CASTELLETTO TICINO",
+			"nomeBreve": "CASTELL. TICINO",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 243,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9112,
+				"idUI": "247"
+			},
+			"nome": "ARONA STAZIONE",
+			"nomeBreve": "ARONA",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 247,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 106,
+				"idUI": "106"
+			},
+			"nome": "ARONA",
+			"nomeBreve": "ARONA PB",
+			"tipo": "PB",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "02",
+				"description": "ADDETTO PUNT VENDITA",
+				"codeUI": "V",
+				"puntoVendita": true,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 247
+			}
+		},
+		"aree": {
+			"id": 25,
+			"nome": "3 PUNTO BLU"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "PB"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 9113,
+				"idUI": "248"
+			},
+			"nome": "BARRIERA LAGO MAGGIORE",
+			"nomeBreve": "LAGO MAGGIORE",
+			"tipo": "ST",
+			"codRete": 1,
+			"codStazione": 248,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "04",
+				"description": "PISTA MANUALE       ",
+				"codeUI": "P",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": true
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "ST"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 101,
+				"idUI": "101"
+			},
+			"nome": "SAMPIERDARENA",
+			"nomeBreve": "GENOVA DIREZ.",
+			"tipo": "PB",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "02",
+				"description": "ADDETTO PUNT VENDITA",
+				"codeUI": "V",
+				"puntoVendita": true,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 214
+			}
+		},
+		"aree": {
+			"id": 25,
+			"nome": "3 PUNTO BLU"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "PB"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 120,
+				"idUI": "120"
+			},
+			"nome": "MCT 1 TRONCO",
+			"nomeBreve": "MCT 1 TRONCO",
+			"tipo": "MC",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "23",
+				"description": "OPERATORE MCT       ",
+				"codeUI": "M",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 214
+			}
+		},
+		"aree": {
+			"id": 17,
+			"nome": "2 M C T"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "MC"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 196,
+				"idUI": "196"
+			},
+			"nome": "CORRIERI TRONCO GENOVA",
+			"nomeBreve": "CORRIERI DT 1",
+			"tipo": "CR",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "24",
+				"description": "CORRIERE            ",
+				"codeUI": "c",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 214
+			}
+		},
+		"aree": {
+			"id": 10,
+			"nome": "CORRIERI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "CR"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 192,
+				"idUI": "192"
+			},
+			"nome": "CORRIERI CASALE",
+			"nomeBreve": "CORR.TRATTA DT1",
+			"tipo": "CR",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "24",
+				"description": "CORRIERE            ",
+				"codeUI": "c",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 234
+			}
+		},
+		"aree": {
+			"id": 10,
+			"nome": "CORRIERI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "CR"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 198,
+				"idUI": "198"
+			},
+			"nome": "CEO TRONCO GENOVA",
+			"nomeBreve": "CEO TRONCO 1",
+			"tipo": "CE",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "21",
+				"description": "OPERATORE CEO       ",
+				"codeUI": "C",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 214
+			}
+		},
+		"aree": {
+			"id": 15,
+			"nome": "CEO"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "CE"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 100,
+				"idUI": "100"
+			},
+			"nome": "DIREZIONE DI TRONCO DI GENOVA",
+			"nomeBreve": "D.T. GENOVA",
+			"tipo": "P1",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "00",
+				"description": "INDEFINITA          ",
+				"codeUI": "X",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 214
+			}
+		},
+		"aree": {
+			"id": 20,
+			"nome": "R.A.C."
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "P1"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 160,
+				"idUI": "160"
+			},
+			"nome": "RIUNIONI ADDESTR. E CAUSE DT1",
+			"nomeBreve": "RIUNIONI DT1",
+			"tipo": "AL",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "00",
+				"description": "INDEFINITA          ",
+				"codeUI": "X",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 20,
+			"nome": "R.A.C."
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "AL"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 161,
+				"idUI": "161"
+			},
+			"nome": "MUTAMENTO TEMP. MANSIONE DT1",
+			"nomeBreve": "MUT. MANS. DT1",
+			"tipo": "AL",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "00",
+				"description": "INDEFINITA          ",
+				"codeUI": "X",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 1,
+			"nome": "MUT TEMP MANS"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "AL"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 193,
+				"idUI": "193"
+			},
+			"nome": "GESTORI DI TRATTA TRONCO 1",
+			"nomeBreve": "GES.TRATTA DT1",
+			"tipo": "GT",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "27",
+				"description": "GESTORE DI TRATTA   ",
+				"codeUI": "G",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 24,
+			"nome": "GESTORI di TRATTA"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "GT"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 174,
+				"idUI": "174"
+			},
+			"nome": "STAGIONALI S.F. 1",
+			"nomeBreve": "STAGIONALI 1",
+			"tipo": "SF",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "00",
+				"description": "INDEFINITA          ",
+				"codeUI": "X",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 3,
+			"nome": "1 STAZIONI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "SF"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 175,
+				"idUI": "175"
+			},
+			"nome": "CORRIERI GHEMME",
+			"nomeBreve": "CORRIERI GHEMME",
+			"tipo": "CR",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "00",
+				"description": "INDEFINITA          ",
+				"codeUI": "X",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 240
+			}
+		},
+		"aree": {
+			"id": 10,
+			"nome": "CORRIERI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "CR"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 1601,
+				"idUI": "1601"
+			},
+			"nome": "MCT ARENZANO",
+			"nomeBreve": "MCT ARENZANO",
+			"tipo": "MC",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "23",
+				"description": "OPERATORE MCT       ",
+				"codeUI": "M",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 218
+			}
+		},
+		"aree": {
+			"id": 17,
+			"nome": "2 M C T"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "MC"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 1602,
+				"idUI": "1602"
+			},
+			"nome": "MCT RECCO",
+			"nomeBreve": "MCT RECCO",
+			"tipo": "MC",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "23",
+				"description": "OPERATORE MCT       ",
+				"codeUI": "M",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 262
+			}
+		},
+		"aree": {
+			"id": 17,
+			"nome": "2 M C T"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "MC"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 1604,
+				"idUI": "1604"
+			},
+			"nome": "MCT OVADA",
+			"nomeBreve": "MCT OVADA",
+			"tipo": "MC",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "23",
+				"description": "OPERATORE MCT       ",
+				"codeUI": "M",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 2231
+			}
+		},
+		"aree": {
+			"id": 17,
+			"nome": "2 M C T"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "MC"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 1800,
+				"idUI": "1800"
+			},
+			"nome": "CORRIERI GENOVA PRA",
+			"nomeBreve": "CORRIERI GE PRA",
+			"tipo": "CR",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "24",
+				"description": "CORRIERE            ",
+				"codeUI": "c",
+				"puntoVendita": false,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": null
+		},
+		"aree": {
+			"id": 10,
+			"nome": "CORRIERI"
+		},
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": true,
+		"tipoGestore": "CR"
+	},
+	{
+		"gestore": {
+			"id": {
+				"ente": 0,
+				"id": 162,
+				"idUI": "162"
+			},
+			"nome": "SERRAVALLE SCRIVIA",
+			"nomeBreve": "SERRAVALLE SCR.",
+			"tipo": "PB",
+			"codRete": 0,
+			"codStazione": 0,
+			"centroEsercizio": null,
+			"tipoServizioDefault": {
+				"code": "02",
+				"description": "ADDETTO PUNT VENDITA",
+				"codeUI": "V",
+				"puntoVendita": true,
+				"supporto": false,
+				"pista": false
+			},
+			"direzioneAreaDiServizio": null,
+			"tipoAreaDiServizio": null,
+			"collegamentoReteStazione": {
+				"codRete": 1,
+				"codStazione": 208
+			}
+		},
+		"aree": null,
+		"tipoAree": null,
+		"areeCambiata": false,
+		"assegnato": false,
+		"tipoGestore": "PB"
+	}
+]

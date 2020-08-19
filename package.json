@@ -1,0 +1,14 @@
+{
+  "name": "jsonsort",
+  "version": "1.0.0",
+  "description": "Questo è un progetto test",
+  "main": "ordinamento-gestori.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arslan",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
